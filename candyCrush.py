@@ -1,8 +1,3 @@
-'''
-This Candy Crush example was made by Clara Lo, with improvements
-by Wallace Mak and Gibson Lam.
-'''
-
 import turtle
 import random
 
